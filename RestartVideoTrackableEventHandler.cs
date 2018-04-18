@@ -1,9 +1,3 @@
-/*===============================================================================
-Copyright (c) 2017 PTC Inc. All Rights Reserved.
- 
-Vuforia is a trademark of PTC Inc., registered in the United States and other
-countries.
-===============================================================================*/
 
 public class RestartVideoTrackableEventHandler : DefaultTrackableEventHandler
 {
